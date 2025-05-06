@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Subrat+here!%2F%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Nitya+here!%2F%3E)
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Subrat?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=subrat&label=PROFILE VIEWS  &color=red&style=flat" alt="subrat"/>
@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.chess.com/member/">
-	<img src= "https://img.shields.io/badge/Chess-769656?style=for-the-badge&logo=lichess&logoColor=white">
-</a>
 
 
 
