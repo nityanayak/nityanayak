@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Nitya+here!%2F%3E)
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Subrat?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=subrat&label=PROFILE VIEWS  &color=red&style=flat" alt="Nitya"/>
+![GitHub followers](https://img.shields.io/github/followers/nityanayak?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=nityanayak&label=PROFILE VIEWS  &color=red&style=flat" alt="Nitya"/>
 
 
 
