@@ -5,23 +5,18 @@
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Subrat?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=subrat&label=PROFILE VIEWS  &color=red&style=flat" alt="subrat"/>
 
-<!--
-**subrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
--->
-
-- 👨‍💻 I’m currently working on my **ReactJS** and **SpringBoot**.
-- 🤯 I’m currently learning advanced **Java**
+- 👨‍💻 I’m currently working on my **ReactJS** and **Java**.
+- 🤯 I’m currently learning advanced **SpringBoot**
 - 🤩 I’m looking to collaborate on **Full stack Java** Projects
 - 👨‍🏭 **Computer Science Graduate** and **Software Developer** 
 
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/nityaranjan-nayak/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="mailto:iamsubratojha@gmail.com">
+<a href="mailto:nityanayak7220@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
