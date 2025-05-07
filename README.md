@@ -21,7 +21,7 @@
 </a>
 
 
-<a href="https://www.instagram.com/heyy.subrat/">
+<a href="https://www.instagram.com/mr_nayak.21/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -65,16 +65,16 @@
 
 
 <a href="https://github.com/Jiganesh" title="Redirects to github page">
-<img width="53%" src="https://leetcard.jacoblin.cool/subrat_ojha" /></a>
+<!--<img width="53%" src="https://leetcard.jacoblin.cool/subrat_ojha" /></a>-->
 
 
 
 ## **Wanna know more about me?** 
-**Send me an email** : iamsubratojha@gmail.com
+**Send me an email** :nityanayak7220@gmail.com
 
-<a href="https://subrat.sayout.net/">
+<!--<a href="https://subrat.sayout.net/">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
-</a>
+</a>-->
 
 
 
